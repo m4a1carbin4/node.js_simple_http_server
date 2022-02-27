@@ -1,0 +1,14 @@
+{
+  "name": "express_server_example.",
+  "version": "1.0.0",
+  "description": "node.js + express server example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"start\")"
+  },
+  "author": "waganawa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
